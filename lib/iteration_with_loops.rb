@@ -12,5 +12,5 @@ while row_index < src.count do
    end
    row_index += 1
   end
-  new_string.join('')
+  new_string.join(' ')
 end
